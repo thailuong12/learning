@@ -1,0 +1,9 @@
+f5		: run in debug mode/ step to the next breakpoint
+shift+f5	: stop debug mode.
+ctrl+f5		: run without  debug mode.
+crtl+shift+f5	: restart
+f9		: place/ remove breakpoint.
+f10 		: step over.
+f11 		: step into.
+shift+f11	: step out from the f11
+locals/ autos/ watch windows : WINDOWS -> 

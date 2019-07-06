@@ -1,0 +1,14 @@
+--------------------------------- CLASS ----------------------------------
+members: 
+	- instance members : accessible from an object.
+	- static members : accessible from a class.
+
+--------------------------------- ABSTRACT --------------------------------
+
+abstract class : is a compination of interface and base class, we cannot create an object from an abtrast class directly, cuz its methods 
+may just have meaning when a subclass call it.
+abstract member : 
+	- is just like the member in interfaces, subclass that inherited from this base class will have to have the implementation 
+	  of that member by overriding the abstract method. (abstract members can only create in abstract class).
+	- you can only override a method of abstract class that decleared as an abstract member, the "virtual" keyword means that you dont 
+	  have to override that method but if you want to you can.

@@ -1,0 +1,11 @@
+D:\learning\learnC#\fumdamental\cSharpFundamental\cSharpFundamental\bin\Debug\netcoreapp2.1\cSharpFundamental.deps.json
+D:\learning\learnC#\fumdamental\cSharpFundamental\cSharpFundamental\bin\Debug\netcoreapp2.1\cSharpFundamental.runtimeconfig.json
+D:\learning\learnC#\fumdamental\cSharpFundamental\cSharpFundamental\bin\Debug\netcoreapp2.1\cSharpFundamental.runtimeconfig.dev.json
+D:\learning\learnC#\fumdamental\cSharpFundamental\cSharpFundamental\bin\Debug\netcoreapp2.1\cSharpFundamental.dll
+D:\learning\learnC#\fumdamental\cSharpFundamental\cSharpFundamental\bin\Debug\netcoreapp2.1\cSharpFundamental.pdb
+D:\learning\learnC#\fumdamental\cSharpFundamental\cSharpFundamental\obj\Debug\netcoreapp2.1\cSharpFundamental.csprojAssemblyReference.cache
+D:\learning\learnC#\fumdamental\cSharpFundamental\cSharpFundamental\obj\Debug\netcoreapp2.1\cSharpFundamental.csproj.CoreCompileInputs.cache
+D:\learning\learnC#\fumdamental\cSharpFundamental\cSharpFundamental\obj\Debug\netcoreapp2.1\cSharpFundamental.AssemblyInfoInputs.cache
+D:\learning\learnC#\fumdamental\cSharpFundamental\cSharpFundamental\obj\Debug\netcoreapp2.1\cSharpFundamental.AssemblyInfo.cs
+D:\learning\learnC#\fumdamental\cSharpFundamental\cSharpFundamental\obj\Debug\netcoreapp2.1\cSharpFundamental.dll
+D:\learning\learnC#\fumdamental\cSharpFundamental\cSharpFundamental\obj\Debug\netcoreapp2.1\cSharpFundamental.pdb
